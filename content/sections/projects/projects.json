@@ -1,0 +1,77 @@
+{
+    "projects": [
+        {
+            "visible": true,
+            "category": "Budget Meets World",
+            "title": "Wander Wallet ",
+            "description": "The result of a 72 hour hackathon, this app is designed to put your budget first when planning your next vacation. Choose your budget and your destination, adjust the budgetary allocations, and we'll provide you with results that fit your wallet.",
+            "tags": ["React", "HTML & CSS", "Node.js", "MongoDB", "API"],
+            "image": {
+                "src": "../../images/wanderwallet.png",
+                "alt": "Wander Wallet"
+            },
+            "links": [
+                {
+                    "type": "github",
+                    "url": "https://github.com/JChapman13/budget-meets-world"
+                }
+            ]
+        },
+        {
+            "visible": true,
+            "category": "A cryptocurrency price alert app",
+            "title": "MyCoin",
+            "description": "With how volatile the crypto markets are, MyCoin is here to alert you when those precious seconds matter most. Search and save your coins to your profile, add your price alert parameters and you'll be notified!",
+            "tags": ["HTML & CSS", "React", "Node.js", "MongoDB", "bcrypt", "JWT", "Material UI", "Websocket/API"],
+            "image": {
+                "src": "../../images/mycoin.png",
+                "alt": "myCoin"
+            },
+            "links": [
+                {
+                    "type": "github",
+                    "url": "https://github.com/JChapman13/mycoin"
+                }
+            ]
+        },
+        {
+            "visible": true,
+            "category": "A restaurant finder app",
+            "title": "Table Time",
+            "description": "Unsure of where to eat? Just put in your location and search for a type of food!",
+            "tags": ["HTML & CSS", "Python", "Django", "PostgreSQL", "API"],
+            "image": {
+                "src": "../../images/tabletime.png",
+                "alt": "Table Time"
+            },
+            "links": [
+                {
+                    "type": "github",
+                    "url": "https://github.com/Abhibgit/Project3-TableTime"
+                }
+            ]
+        },
+        {
+            "visible": true,
+            "category": "May your memory be with you",
+            "title": "Memory Wars",
+            "description": "A Star Wars themed memory game with a few easter eggs on the last level.",
+            "tags": ["HTML & CSS", "JavaScript"],
+            "image": {
+                "src": "../../images/memorywars.png",
+                "alt": "Memory Wars"
+            },
+            "links": [
+                {
+                    "type": "github",
+                    "url": "https://github.com/JChapman13/memory-wars-project"
+                }
+            ]
+        }
+    ],
+    "button": {
+        "visible": true,
+        "label": "Visit on Github",
+        "url": "https://github.com/jchapman13"
+    }
+}

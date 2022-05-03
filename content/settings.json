@@ -1,0 +1,38 @@
+{
+    "siteMetadata": {
+        "language": "en",
+        "siteUrl": "www.justinchapman.com",
+        "title": "Justin Chapman Portfolio",
+        "titleTemplate": "%s · Portfolio Minimal",
+        "description": "A Portolio",
+        "author": "Justin Chapman",
+        "avatar": "../content/images/letter_j_icon_151250.png",
+        "bio": "",
+        "social": {
+            "github": "https://github.com/jchapman13",
+            "linkedin": "https://linkedin.com/in/justin-chapman-6493a81b5",
+            "mail": "mailto:justinandrewchapman@gmail.com"
+        }
+    },
+    "siteConfiguration": {
+        "logo": { "text": "Justin Chapman" },
+        "navigation": {
+            "header": [
+                { "label": "About", "url": "/#about" },
+                { "label": "Projects", "url": "/#projects" },
+                { "label": "Github", "url": "/#github" }
+            ],
+            "ctaButton": {
+                "openNewTab": true,
+                "label": "Resume",
+                "url": "/resume.pdf"
+            },
+            "footer": [{ "label": "Back to Top", "url": "/" }]
+        },
+        "featureToggles": {
+            "useDarkModeAsDefault": false,
+            "useDarkModeBasedOnUsersPreference": true,
+            "useCookieBar": false
+        }
+    }
+}

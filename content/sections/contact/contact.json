@@ -1,0 +1,13 @@
+{
+    "name": "Justin Chapman",
+    "email": "justinandrewchapman@gmail.com",
+    "description": "I enjoy making new connections, feel free to email me or connect via LinkedIn! :)",
+    "image": {
+        "src": "../../images/letter_j_icon_151250.png",
+        "alt": "J Logo"
+    },
+    "socialProfiles": {
+        "from": ["LinkedIn", "Github", "Mail"],
+        "showIcons": true
+    }
+}

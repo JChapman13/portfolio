@@ -1,0 +1,18 @@
+{
+    "intro": "Hi!",
+    "image": {
+        "src": "../../images/waving-hand.png",
+        "alt": "Waving Hand Emoji"
+    },
+    "title": "I'm Justin,",
+    "subtitle": {
+        "prefix": "A ",
+        "highlight": "Full-Stack Developer",
+        "suffix": "."
+    },
+    "description": "Passionate problem solver by day, my mom's tech support by night.",
+    "socialProfiles": {
+        "from": ["LinkedIn", "Github", "Mail"],
+        "showIcons": true
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "interests": [
+        {
+            "label": "React.js",
+            "image": {
+                "src": "../../images/react.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "JavaScript",
+            "image": {
+                "src": "../../images/js.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "HTML",
+            "image": {
+                "src": "../../images/html-5.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "CSS",
+            "image": {
+                "src": "../../images/css3.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Test Driven Development",
+            "image": {
+                "src": "../../images/jest.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Python",
+            "image": {
+                "src": "../../images/python.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Responsive Design",
+            "image": {
+                "src": "../../images/mobile-phone.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "TypeScript",
+            "image": {
+                "src": "../../images/typescript.png",
+                "alt": ""
+            }
+        },
+
+        {
+            "label": "Node.js",
+            "image": {
+                "src": "../../images/node-js.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "MongoDB",
+            "image": {
+                "src": "../../images/mongodb.png",
+                "alt": ""
+            }
+        },
+
+        {
+            "label": "SQL Database",
+            "image": {
+                "src": "../../images/mysql.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Agile Methodologies",
+            "image": {
+                "src": "../../images/agile-iteration.png",
+                "alt": ""
+            }
+        }
+    ],
+    "button": {
+        "visible": true,
+        "label": "+ Load More",
+        "initiallyShownInterests": 5
+    }
+}
