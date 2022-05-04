@@ -5,7 +5,7 @@ module.exports = {
             options: {
                 siteUrl: 'https://www.justinchapman.ca', // Used for sitemap generation
                 manifestSettings: {
-                    favicon: './content/images/favicon.png', // Path is relative to the root
+                    favicon: './content/images/letter_j_icon_151250.png', // Path is relative to the root
                     siteName: 'My Minimal Portfolio', // Used in manifest.json
                     shortName: 'Portfolio', // Used in manifest.json
                     startUrl: '/', // Used in manifest.json
